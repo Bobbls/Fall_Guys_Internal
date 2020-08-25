@@ -3,7 +3,9 @@ Fall Guys - Free Advanced Internal Cheat - 1.2_5 - 20.08.2020
  
 CREDITS:
 B3akers - https://github.com/B3akers/FlyGuys
+
 xTeJk - Adding sliders for a bunch of variables
+
 Me - literally just updating offsets because the original maintainer is now selling it
   
 ## How to:
